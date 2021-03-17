@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013762319106",
+    "project_id": "massive-rock-239015",
+    "storage_bucket": "massive-rock-239015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013762319106:android:812e7ac3d84a5ec6e7181b",
+        "android_client_info": {
+          "package_name": "com.example.assigments_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013762319106-urj6tn6icnckvmsvavqo3ob4ogpbh0fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZK_juq0jamkU3K_lPGmKDLbfCs7UoIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013762319106-urj6tn6icnckvmsvavqo3ob4ogpbh0fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
